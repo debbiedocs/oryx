@@ -1,3 +1,6 @@
+THIS CONTENT HAS MOVED TO THE ACADEMY PLEASE DO NOT MAKE ANY CHANGES HERE!! Go to  https://github.com/spryker/spryker.github.io/pull/299
+
+
 # oryx
 
 Frontend helper for Spryker projects
